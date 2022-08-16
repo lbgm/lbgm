@@ -12,7 +12,7 @@ Hard working Man.
 ## About
 
 - 🔭 I’m currently working at OPEN SI / Kkiapay(https://kkiapay.me/) team member
-- 👯 I’m looking to collaborate on any interesting open-source project
+- I’m looking to collaborate on any interesting open-source project
 
 - My hobbies: games, travel, history
 
