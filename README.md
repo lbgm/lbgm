@@ -3,9 +3,13 @@
 I am Balthazar DOSSOU (lbgm) aka the "Time to Elevate",
 Hard working Man.
 
+## Contact
+
 <a href="https://www.linkedin.com/in/lbgm/">
   <img align="left" alt="Balthazar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a><br>
+
+## About
 
 - 🔭 I’m currently working at OPEN SI / Kkiapay(https://kkiapay.me/) team member
 - 👯 I’m looking to collaborate on any interesting open-source project
