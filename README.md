@@ -11,7 +11,7 @@ Hard working Man.
 
 ## About
 
-- 🔭 I’m currently working at OPEN SI / Kkiapay(https://kkiapay.me/) team member
+- 🔭 I’m currently working at OPEN SI / Kkiapay(https://kkiapay.me/) team member as fullstack Web Developer
 - I am also opened for freelance jobs and remote' works
 - I’m looking to collaborate on any interesting open-source project
 
