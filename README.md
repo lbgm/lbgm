@@ -12,10 +12,10 @@ Hard working Man.
 ## About
 
 - 🔭 I’m currently working at OPEN SI / Kkiapay(https://kkiapay.me/) team member as fullstack Web Developer
-- I am also opened for freelance jobs and remote' works
 - I’m looking to collaborate on any interesting open-source project
-
 - My hobbies: games, travel, history
+
+<!-- - I am also opened for freelance jobs and remote' works -->
 
 <!--
 **lbgm/lbgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
