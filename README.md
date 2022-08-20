@@ -19,7 +19,7 @@ I am Balthazar DOSSOU (lbgm) aka the "Time to Elevate",
   <img align="left" alt="Balthazar's Whatsapp" width="22px" src="https://raw.githubusercontent.com/lbgm/lbgm/master/whatsapp-svgrepo-com.svg" />
 </a>
 
-<a href="">
+<a href="https://t.me/lbgmt">
   <img align="left" alt="Balthazar's telegram" width="22px" src="https://raw.githubusercontent.com/lbgm/lbgm/master/telegram-svgrepo-com.svg" />
 </a>
 
