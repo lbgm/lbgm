@@ -13,7 +13,13 @@ I am Balthazar DOSSOU (lbgm) aka the "Time to Elevate",
 
 <a href="https://www.linkedin.com/in/lbgm/">
   <img align="left" alt="Balthazar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a><br>
+</a>
+
+<a href="https://wa.me/22997788842/">
+  <img align="left" alt="Balthazar's Whatsapp" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/whatsapp.svg" />
+</a>
+
+<br>
 
 <!--
 **lbgm/lbgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
