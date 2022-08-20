@@ -12,11 +12,23 @@ I am Balthazar DOSSOU (lbgm) aka the "Time to Elevate",
 ## Contact
 
 <a href="https://www.linkedin.com/in/lbgm/">
-  <img align="left" alt="Balthazar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Balthazar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/lbgm/lbgm/master/linkedin-svgrepo-com.svg" />
 </a>
 
 <a href="https://wa.me/22997788842/">
-  <img align="left" alt="Balthazar's Whatsapp" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/whatsapp.svg" />
+  <img align="left" alt="Balthazar's Whatsapp" width="22px" src="https://raw.githubusercontent.com/lbgm/lbgm/master/whatsapp-svgrepo-com.svg" />
+</a>
+
+<a href="">
+  <img align="left" alt="Balthazar's telegram" width="22px" src="https://raw.githubusercontent.com/lbgm/lbgm/master/telegram-svgrepo-com.svg" />
+</a>
+
+<a href="mailto:dosanel@outlook.fr">
+  <img align="left" alt="Balthazar's outlook mailbox" width="22px" src="https://raw.githubusercontent.com/lbgm/lbgm/master/outlook-svgrepo-com.svg" />
+</a>
+
+<a href="mailto:bmat789@gmail.com">
+  <img align="left" alt="Balthazar's gmail mailbox" width="22px" src="https://raw.githubusercontent.com/lbgm/lbgm/master/gmail-svgrepo-com.svg" />
 </a>
 
 <br>
