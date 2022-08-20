@@ -2,19 +2,18 @@
 
 I am Balthazar DOSSOU (lbgm) aka the "Time to Elevate",
 
-## Contact
-
-<a href="https://www.linkedin.com/in/lbgm/">
-  <img align="left" alt="Balthazar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a><br>
-
 ## About
 
 - 🔭 I’m currently working at OPEN SI / Kkiapay(https://kkiapay.me/) team member as fullstack Web Developer
 - I’m looking to collaborate on any interesting open-source project
 - My hobbies: games, travel, history
-
 <!-- - I am also opened for freelance jobs and remote' works -->
+
+## Contact
+
+<a href="https://www.linkedin.com/in/lbgm/">
+  <img align="left" alt="Balthazar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a><br>
 
 <!--
 **lbgm/lbgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
