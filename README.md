@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am Balthazar DOSSOU aka the "Time to Elevate",
+I am Balthazar DOSSOU aka "lbgm, Time to Elevate",
 
 ## About
 
