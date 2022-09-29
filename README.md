@@ -5,7 +5,7 @@ I am Balthazar DOSSOU aka "lbgm | Time to Elevate",
 ## About
 
 - 🔭 I’m currently working at OPEN SI / Kkiapay(https://kkiapay.me/) team member as fullstack Web Developer
-- I’m looking to collaborate on any interesting open-source project
+- I am also opened to collaborate on any interesting open-source project
 - My hobbies: games, travel, history
 <!-- - I am also opened for freelance jobs and remote' works -->
 
