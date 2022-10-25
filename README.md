@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am Balthazar DOSSOU aka "Time to Elevate", IT Developer & Computer Scientist
+I am Balthazar DOSSOU, IT Developer & Computer Scientist
 
 ## About
 
