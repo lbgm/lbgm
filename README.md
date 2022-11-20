@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am Balthazar DOSSOU, IT Developer & Computer Scientist
+I am another one IT Developer & Computer Scientist from BENIN,
 
 ## About
 
