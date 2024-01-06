@@ -89,7 +89,7 @@
 <a target="_blank" rel="noopener noreferrer"
     href="https://www.jenkins.io/"><img
         src="https://github.com/devicons/devicon/raw/master/icons/jenkins/jenkins-original.svg" title="jenkins"
-        alt="composer" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+        alt="jenkins" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
 <!-- git and others tools -->
 <a target="_blank" rel="noopener noreferrer"
     href="https://git-scm.com/"><img
