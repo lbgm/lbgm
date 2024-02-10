@@ -11,7 +11,7 @@
         alt="Vue" width="32" height="32" style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer"
     href="https://tailwindcss.com/"><img
-        src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg"
+        src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg"
         title="TailwindCSS" alt="TailwindCSS" width="32" height="32" style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer"
     href="https://www.typescriptlang.org/"><img
@@ -51,7 +51,7 @@
         title="Spring" alt="Spring" width="32" height="32" style="max-width: 100%;"></a>&nbsp;
  <a target="_blank" rel="noopener noreferrer"
     href="https://nestjs.com/"><img
-        src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain.svg" title="NestJs"
+        src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-original.svg" title="NestJs"
         alt="NestJs" width="32" height="32" style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer"
     href="https://nodejs.org/"><img
@@ -118,7 +118,7 @@
         title="Google Cloud" alt="Google Cloud" width="32" height="32" style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer"
     href="https://aws.amazon.com/"><img
-        src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"
+        src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
         title="AWS" alt="AWS" width="32" height="32" style="max-width: 100%;"></a>&nbsp;
 <!-- code editor -->
 <a target="_blank" rel="noopener noreferrer"
