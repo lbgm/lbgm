@@ -169,5 +169,7 @@
         title="StoryBook" alt="StoryBook" width="32" height="32" style="max-width: 100%;"></a>&nbsp;
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lbgm&show_icons=true&locale=en&langs_count=10&layout=compact&hide_title=true" alt="lbgm" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lbgm&show_icons=true&locale=en&count_private=true&hide_title=true" alt="lbgm" />
+<!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lbgm&show_icons=true&locale=en&langs_count=10&layout=compact&hide_title=true" alt="lbgm" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lbgm&show_icons=true&locale=en&count_private=true&hide_title=true" alt="lbgm" />-->
+<img align="left" src="https://raw.githubusercontent.com/lbgm/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="lbgm" />
+<img align="center" src="https://raw.githubusercontent.com/lbgm/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="lbgm" />
