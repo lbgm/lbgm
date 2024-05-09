@@ -104,6 +104,10 @@
         src="https://github.com/lbgm/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github"
         width="32" height="32" style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer"
+    href="https://www.postman.com/"><img
+        src="https://github.com/lbgm/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"
+    alt="Postman" width="32" height="32" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer"
     href="https://www.putty.org/"><img
         src="https://github.com/lbgm/devicon/raw/master/icons/putty/putty-original.svg" title="Putty"
         alt="Putty" width="32" height="32" style="max-width: 100%;"></a>&nbsp;
