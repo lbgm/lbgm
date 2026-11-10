@@ -126,7 +126,7 @@
         title="Google Cloud" alt="Google Cloud" width="32" height="32" style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer"
     href="https://aws.amazon.com/"><img
-        src="https://github.com/devicons/devicon/raw/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+        src="https://github.com/devicons/devicon/raw/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
         title="AWS" alt="AWS" width="32" height="32" style="max-width: 100%;"></a>&nbsp;
 <!-- code editor -->
 <a target="_blank" rel="noopener noreferrer"
